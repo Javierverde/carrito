@@ -1,5 +1,5 @@
 const productList = [
-    { id: 1, name: "Teclado", price: 35000, img: "./images/tecladoGamer.jpg" },
+    { id: 1, name: "Teclado", price: 35000, img: "../images/tecladoGamer.jpg" },
     { id: 2, name: "Mouse", price: 19000, img: "./images/mouseGamer.jpeg" },
     { id: 3, name: "Auriculares", price: 70000, img: "./images/auricularesGamer.png" },
     { id: 4, name: "Monitor", price: 249999, img: "./images/monitorGarmer.jpeg" },
